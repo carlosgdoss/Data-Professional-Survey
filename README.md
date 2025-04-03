@@ -17,6 +17,7 @@ Happiness Metrics: Job satisfaction related to salary, work-life balance, and ca
 Interactive Visuals: Power BI charts for deeper data exploration.
 
 ## 📷 Dashboard Screenshot
+![Dashboard Preview](https://github.com/Anurag-kumar-Molankala/Data-Professional-Survey/blob/main/Data%20Professional%20Survey%20SS.png)
 
 ## 📊 Key Insights
 
